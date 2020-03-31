@@ -1,0 +1,15 @@
+{
+  "ra" : 34.5265,
+  "dec" : 42.5382,
+  "tmin" : 2.524608E8,
+  "tmax" : 5.39136E8,
+  "rad" : 20.0,
+  "emin" : 100.0,
+  "emax" : 300000.0,
+  "scfile" : "/data/wwc129/j0218/fermi2/S3/j0218sc00.fits",
+  "events_file" : "/data/wwc129/j0218/fermi2/S3/binned_events.txt",
+  "path_of_addMysource" : "add_mysource.txt",
+  "r" : 8.0,
+  "s" : 10.0,
+  "output_dir" : "more_fermi_ave_1"
+}
